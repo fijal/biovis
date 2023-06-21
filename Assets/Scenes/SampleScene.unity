@@ -997,6 +997,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 64df47cda41911548b6869a98bcb7ef6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  cubeMat: {fileID: 2100000, guid: 97fc9c5144db22d409919dbee548bffe, type: 2}
+  coordsInfo: {fileID: 4900000, guid: 022eb83a98209204eb0ec051174b8dbc, type: 3}
+  simulationAssets:
+  - {fileID: 4900000, guid: 29779c00e4e46a942937f1eef44741d6, type: 3}
 --- !u!4 &1151734039
 Transform:
   m_ObjectHideFlags: 0
